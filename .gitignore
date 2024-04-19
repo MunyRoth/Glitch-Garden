@@ -71,7 +71,9 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-iOS
+
 .DS_Store
 .idea
+
+iOS
 iOS_BurstDebugInformation_DoNotShip

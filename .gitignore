@@ -74,3 +74,4 @@ crashlytics-build.properties
 iOS
 .DS_Store
 .idea
+iOS_BurstDebugInformation_DoNotShip
